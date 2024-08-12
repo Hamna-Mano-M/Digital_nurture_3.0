@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "spring.datasource.secondary.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.secondary.password'"
+  },
+  {
+    "name": "spring.datasource.secondary.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.secondary.driverClassName'"
+  },
+  {
+    "name": "spring.datasource.secondary.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.secondary.username'"
+  },
+  {
+    "name": "spring.datasource.secondary.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.secondary.url'"
+  },
+  {
+    "name": "spring.datasource.secondary.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.secondary.driverClassName'"
+  },
+  {
+    "name": "spring.datasource.secondary.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.secondary.driverClassName'"
+  }
+]}
